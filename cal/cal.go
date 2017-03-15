@@ -6,6 +6,6 @@ func split(sum int) (x, y int) {
 	return
 }
 
-func partFibonacci(x, y int) (int, int) {
+func myFibonacci(x, y int) (int, int) {
 	return y, x+y
 }
